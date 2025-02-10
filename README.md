@@ -2,7 +2,7 @@
 ---
 ### Are you bored of always making skin structures for AC manually? Well look no more 
 
-AC Paintjob Packer is a simple open-source program to make making paintjobs easier. In less than ==10 simple steps== you can have a working paintjob!
+AC Paintjob Packer is a simple open-source program to make making paintjobs easier. In less than 10 simple steps you can have a working paintjob!
 ---
 ## 1. Choose a car:
 <img src="https://i.imgur.com/FM6K3Zr.png">
@@ -19,4 +19,4 @@ AC Paintjob Packer is a simple open-source program to make making paintjobs easi
 
 # 7. Enjoy!
 ---
-If you wish to add/change anything or collaborate on this project, hit me up on my discord ==hexets2== or my ==[E-Mail](mailto:hex.ets2@gmail.com)==
+If you wish to add/change anything or collaborate on this project, hit me up on my discord hexets2 or my [E-Mail](mailto:hex.ets2@gmail.com)
