@@ -134,7 +134,7 @@ def save_to():
 # Function to export the mod and display completion message
 def export_mod():
   save_to()
-  tutorialLabel = CTkLabel(exportTabFrame, text=f"Great! Your skin files are in {dir},\n to edit them just open up your\n file explorer and go to {dir}, and start editing AC_Crew.dds,\nlivery.png and the skin file, next go back to\n'AC_Packer_Output' and compress the 'content' folder\n drag and drop into CM, install and enjoy!")
+  tutorialLabel = CTkLabel(exportTabFrame, text=f"Great! Your skin files are in {dir},\n to edit them just open up your\n file explorer and go to {dir}, and start editing AC_Crew.dds,\nlivery.png and the skin file, next go back to\n'AC_Packer_Output' and compress the 'content' folder\n drag and drop into CM, install, in CM go to Content > Cars > the car your skin is for\nand click on update previews, enjoy!")
   tutorialLabel.pack
 
 # Create export button
